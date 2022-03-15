@@ -11,15 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/priyaravi23/pwa-budget-tracker.git"
+    "url": "https://github.com/socialcancer/19-PWA-budget-tracker.git"
   },
   "keywords": [],
   "author": "",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/priyaravi23/pwa-budget-tracker/issues"
-  },
-  "homepage": "https://github.com/priyaravi23/pwa-budget-tracker#readme",
+  "license": "",
+  "homepage": "https://github.com/socialcancer/19-PWA-budget-tracker#readme",
   "dependencies": {
     "compression": "^1.7.4",
     "express": "^4.17.1",
